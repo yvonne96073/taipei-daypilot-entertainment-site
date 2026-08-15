@@ -1,0 +1,1 @@
+{"status":"unavailable","source":{"sourceName":"TDX route adapter","url":"https://tdx.transportdata.tw/","updatedAt":"2026-08-05T16:56:51.729Z","confidence":0,"status":"unavailable","note":"未設定 TDX credentials，無法取得即時路線與時間。"},"origin":"台北車站","destination":"台北市推薦區域","options":[],"note":"交通時間不可用；系統不虛構抵達時間。"}

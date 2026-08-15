@@ -1,0 +1,1 @@
+{"generatedAt":"2026-08-05T16:56:52.921Z","layerId":"rainfall","source":{"sourceName":"中央氣象署自動雨量站觀測","url":"https://opendata.cwa.gov.tw/api/v1/rest/datastore/O-A0002-001","updatedAt":"2026-08-05T16:56:51.780Z","confidence":0,"status":"unavailable","note":"CWA_API_KEY is not configured; no observed rainfall available."},"data":{"type":"FeatureCollection","features":[]}}
